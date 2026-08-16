@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0654-maximum-binary-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
+| [0706-design-hashmap](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0706-design-hashmap](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
@@ -82,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
