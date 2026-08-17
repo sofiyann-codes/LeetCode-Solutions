@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0654-maximum-binary-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0654-maximum-binary-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## String
 |  |
 | ------- |
