@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0706-design-hashmap](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
