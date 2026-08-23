@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [1927-sum-game](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2578-split-with-minimum-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2578-split-with-minimum-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 ## Sorting
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0821-shortest-distance-to-a-character](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [1927-sum-game](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
