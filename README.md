@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2578-split-with-minimum-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0821-shortest-distance-to-a-character](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Simulation
