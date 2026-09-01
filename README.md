@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0706-design-hashmap](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0821-shortest-distance-to-a-character](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [1089-duplicate-zeros](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0821-shortest-distance-to-a-character](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [1089-duplicate-zeros](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 ## Simulation
 |  |
 | ------- |
