@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0706-design-hashmap](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0821-shortest-distance-to-a-character](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0843-guess-the-word](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0843-guess-the-word) |
 | [1089-duplicate-zeros](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0843-guess-the-word](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0843-guess-the-word) |
 | [1927-sum-game](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2578-split-with-minimum-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0821-shortest-distance-to-a-character](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0843-guess-the-word](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0843-guess-the-word) |
 | [1927-sum-game](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0843-guess-the-word](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0843-guess-the-word) |
 | [1927-sum-game](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Heap (Priority Queue)
 |  |
@@ -175,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Minimax
+|  |
+| ------- |
+| [0843-guess-the-word](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0843-guess-the-word) |
+## Interactive
+|  |
+| ------- |
+| [0843-guess-the-word](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0843-guess-the-word) |
 <!---LeetCode Topics End-->
