@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Tree
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0843-guess-the-word](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0843-guess-the-word) |
 | [1927-sum-game](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1927-sum-game) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0394-decode-string) |
 ## Game Theory
 |  |
 | ------- |
