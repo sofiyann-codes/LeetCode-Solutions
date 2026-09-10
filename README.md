@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0843-guess-the-word](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0843-guess-the-word) |
 | [1927-sum-game](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2578-split-with-minimum-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0394-decode-string) |
 ## Game Theory
 |  |
@@ -202,4 +205,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
