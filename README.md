@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2578-split-with-minimum-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 ## Sorting
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2578-split-with-minimum-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0897-increasing-order-search-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
