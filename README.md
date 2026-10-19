@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0843-guess-the-word) |
 | [1089-duplicate-zeros](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0833-find-and-replace-in-string](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2578-split-with-minimum-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0897-increasing-order-search-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
