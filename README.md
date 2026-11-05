@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0843-guess-the-word](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0843-guess-the-word) |
 | [1089-duplicate-zeros](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0833-find-and-replace-in-string](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0897-increasing-order-search-tree](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0821-shortest-distance-to-a-character](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1089-duplicate-zeros](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sofiyann-codes/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Simulation
 |  |
 | ------- |
